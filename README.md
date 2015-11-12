@@ -1,5 +1,7 @@
 # AWS EC2(AMI) Backup Script 
 AWS EC2 Backup Script.
+
+Get the AMI backup of the specified instance and the Snapshot associated with the specified generation before the AMI.
   
 ## Installation
   
@@ -10,7 +12,7 @@ Run Script in shell , or Run Script in crontab.
   
 /path/to/ami-backup.sh [InstanceID] [aws-config-profile] 
   
- Default Setting 
+ Default Setting  
  Genaration($Gen) = 1  
  aws-config-profile(none) = default config 
   
