@@ -10,9 +10,9 @@ Run Script in shell , or Run Script in crontab.
   
 /path/to/ami-backup.sh [InstanceID] [aws-config-profile] 
   
-Default Setting
-Genaration($Gen) = 1
-aws-config-profile(none) = default config
+Default Setting 
+Genaration($Gen) = 1 
+aws-config-profile(none) = default config 
   
 ## Credits
   
