@@ -1,7 +1,9 @@
 # AWS EC2(AMI) Backup Script 
 AWS EC2 Backup Script.
 
-Get the AMI backup of the specified instance and the Snapshot associated with the specified generation before the AMI.
+ Get the AMI backup of the specified instance, 
+ and 
+ Delete "AMI and Snapshot" that associated with the specified generation before
   
 ## Installation
   
